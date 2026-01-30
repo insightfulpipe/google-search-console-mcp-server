@@ -1,11 +1,14 @@
-# Google Search Console MCP Server
+# Google Search Console MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/google-search-console)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Connect Google Search Console to AI assistants for SEO analytics and search performance insights.**
 
-The Google Search Console MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your website's search performance. Monitor rankings, track clicks, and get AI-powered SEO recommendations.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The Google Search Console MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your website's search performance. Monitor rankings, track clicks, and get AI-powered SEO recommendations.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![Google Search Console MCP Server](https://insightfulpipe.com/images/google-search-console-icon.svg)
 
@@ -157,11 +160,21 @@ claude mcp add google-search-console https://google-search-console.insightfulmcp
 - **Read-only access** - No changes to your property
 - **Data encryption** - Secure transmission
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### SEO & Performance MCP Servers
 - [Google Analytics MCP](https://insightfulpipe.com/mcp-servers/google-analytics) - Website analytics
 - [PageSpeed MCP](https://insightfulpipe.com/mcp-servers/pagespeed) - Performance metrics
 - [Web Crawler MCP](https://insightfulpipe.com/mcp-servers/crawler) - Site crawling
+- [Google My Business MCP](https://insightfulpipe.com/mcp-servers/google-my-business) - Local SEO
+
+### Advertising MCP Servers
+- [Google Ads MCP](https://insightfulpipe.com/mcp-servers/google-ads) - Google advertising
+- [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Meta advertising
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -172,7 +185,12 @@ claude mcp add google-search-console https://google-search-console.insightfulmcp
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
